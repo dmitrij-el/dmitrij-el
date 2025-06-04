@@ -58,9 +58,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<p style="text-align: center;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dmitrij-el&theme=radical" width="700" alt="GitHub Activity Graph"/>
-</p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmitrij-el&theme=radical)
 
 ## 📫 Как связаться
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d_m_elec)
