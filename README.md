@@ -99,6 +99,8 @@ HTML5/CSS3 (адаптив) | JavaScript (ES6+) | Jinja2 | Интеграция 
 
 ## 📬 Контакты
 
-- 🔗 GitHub:     https://github.com/dmitrij-el
-- 📱 Telegram:   https://t.me/d_m_elec
+- [🔗 GitHub](https://github.com/dmitrij-el)
+- [📱 Telegram](https://t.me/d_m_elec)
+- [💼 HeadHunter](https://hh.ru/resume/29992be0ff0370ff830039ed1f71487a35624f)
+
 
