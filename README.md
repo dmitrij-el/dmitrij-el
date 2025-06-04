@@ -22,6 +22,7 @@
 ![](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![](https://img.shields.io/badge/FSM-FF9800?style=for-the-badge&logo=flow&logoColor=white)
 ![](https://img.shields.io/badge/Auth-Secure-4CAF50?style=for-the-badge&logo=lock&logoColor=white)
+![](https://img.shields.io/badge/Integration-FastAPI-009688?style=for-the-badge&logo=link&logoColor=white)
 
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
