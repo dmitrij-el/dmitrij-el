@@ -59,30 +59,22 @@ def update_readme(readme_path, data):
     with open(readme_path, "r", encoding="utf-8") as f:
         content = f.read()
 
-    marker_start = "## 📈 Последняя активность"
-    marker_end = "### 🕒 Последние действия"
-
-    new_section = f"""{marker_start}
-
-[![Refresh GitHub Profile](https://github.com/{REPO_OWNER}/{REPO_NAME}/actions/workflows/profile_ci.yml/badge.svg)](https://github.com/{REPO_OWNER}/{REPO_NAME}/actions/workflows/profile_ci.yml)
-
-![Metrics](https://github.com/{REPO_OWNER}/{REPO_NAME}/blob/main/metrics.svg?raw=true)
-
-{marker_end}
+    new_section = f"""
+## Последние действия
 
 - 🔨 В `{REPO_OWNER}/{REPO_NAME}`: [`{data['self']['message']}`]({data['self']['url']}) — *{data['self']['time']}*
 - 📘 В других репозиториях: [`{data['other']['message']}`]({data['other']['url']}) — *{data['other']['time']}*
 """
 
-    # Заменим только нужный блок
-    start_index = content.find(marker_start)
-    if start_index != -1:
-        end_index = content.find("##", start_index + 1)
-        content = content[:start_index] + new_section + (content[end_index:] if end_index != -1 else "")
+    # Ищем любой раздел "Последние действия" и заменяем его
+    if "## Последние действия" in content:
+        parts = content.split("## Последние действия", 1)
+        new_content = parts[0] + new_section
+    else:
+        new_content = content + new_section
 
     with open(readme_path, "w", encoding="utf-8") as f:
-        f.write(content)
-
+        f.write(new_content)
 
 def main():
     self_commit = fetch_last_commit(REPO_OWNER, REPO_NAME)
