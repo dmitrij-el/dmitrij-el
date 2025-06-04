@@ -1,7 +1,7 @@
+# scripts/update_readme.py
 import os
 import requests
 from datetime import datetime
-from dateutil import parser  # Используем правильный импорт
 
 GH_TOKEN = os.getenv('GH_TOKEN')
 HEADERS = {'Authorization': f'token {GH_TOKEN}'} if GH_TOKEN else {}
