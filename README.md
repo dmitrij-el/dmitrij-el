@@ -39,15 +39,6 @@
 ![](https://img.shields.io/badge/MinIO-C82E00?style=for-the-badge&logo=min.io&logoColor=white)
 ![](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 🌟 Мои ключевые проекты
-1. **[Anwill Catalog](https://github.com/...)**
-   - Описание: Полноценный каталог с FastAPI и S3
-   - Стек: Python 3.12, FastAPI, PostgreSQL, MinIO
-   - Особенности: Асинхронная архитектура, OAuth2
-
-2. **[BeaHea Full-Stack](https://github.com/...)**
-   - Описание: Веб-приложение с микросервисной архитектурой
-   - Стек: FastAPI, Redis, RabbitMQ, Jinja2
 
 ## 📈 Последняя активность
 🔨 Pushed to [dmitrij-el/dmitrij-el](https://github.com/dmitrij-el/dmitrij-el): Update README.md (10 часов назад)
