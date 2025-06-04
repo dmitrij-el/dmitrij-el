@@ -1,7 +1,5 @@
 # 👋 Дмитрий Иванюк | Backend Developer & DevOps
 
-[![Refresh GitHub Profile](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrij-el&layout=compact&theme=radical)](https://github.com/dmitrij-el)
 
 ## 🛠️ Мой стек технологий
@@ -48,27 +46,22 @@
 ![](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## 📈 Последняя активность
+[![trophy](https://github-profile-trophy.vercel.app/?username=dmitrij-el&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Refresh GitHub Profile](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml)
 
 ![Metrics](https://github.com/dmitrij-el/dmitrij-el/blob/main/metrics.svg?raw=true)
 
-### 🕒 Последние действия
+![snake gif](https://github.com/dmitrij-el/dmitrij-el/blob/output/github-contribution-grid-snake.svg)
 
-- 🔨 В `dmitrij-el/dmitrij-el`: [`Merge remote-tracking branch 'origin/main'`](https://github.com/dmitrij-el/dmitrij-el/commit/c39679406da2435667ec7449f13074c3877d4d1e) — *0 минут назад*
-- 📘 В других репозиториях: [`Update README.md`](https://github.com/dmitrij-el/dmitrij-el/commit/d98912da89adede292f205d757b2a206ce71e467) — *12 часов назад*
-### 🕒 Последние действия
 
-- 🔨 В `dmitrij-el/dmitrij-el`: [`Merge remote-tracking branch 'origin/main'`](https://github.com/dmitrij-el/dmitrij-el/commit/b32d35933358ea1afc56807ad6c8cf6bd057f86d) — *0 минут назад*
-- 📘 В других репозиториях: [`Update README.md`](https://github.com/dmitrij-el/dmitrij-el/commit/d98912da89adede292f205d757b2a206ce71e467) — *12 часов назад*
-### 🕒 Последние действия
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-- 🔨 В `dmitrij-el/dmitrij-el`: [`Update metrics.svg - [Skip GitHub Action]`](https://github.com/dmitrij-el/dmitrij-el/commit/bddd51805ef1740875c967a7cf3ee57e5605fc9d) — *0 минут назад*
-- 📘 В других репозиториях: [`Update README.md`](https://github.com/dmitrij-el/dmitrij-el/commit/d98912da89adede292f205d757b2a206ce71e467) — *12 часов назад*
-### 🕒 Последние действия
+<p style="text-align: left;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dmitrij-el&theme=radical" width="700" alt="GitHub Activity Graph"/>
+</p>
 
-- 🔨 В `dmitrij-el/dmitrij-el`: [`реадми`](https://github.com/dmitrij-el/dmitrij-el/commit/9f0a69759eb2e5d15b0ecc276f256b202aae1e03) — *0 минут назад*
-- 📘 В других репозиториях: [`Update README.md`](https://github.com/dmitrij-el/dmitrij-el/commit/d98912da89adede292f205d757b2a206ce71e467) — *12 часов назад*
 ## 📫 Как связаться
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d_m_elec)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dblmokdima@gmail.com)
