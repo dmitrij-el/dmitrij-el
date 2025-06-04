@@ -10,7 +10,6 @@
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-[Добавь другие технологии]
 
 ## 🌟 Мои ключевые проекты
 1. **[Anwill Catalog](https://github.com/...)**
