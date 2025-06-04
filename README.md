@@ -58,7 +58,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<p style="text-align: left;">
+<p style="text-align: center;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dmitrij-el&theme=radical" width="700" alt="GitHub Activity Graph"/>
 </p>
 
