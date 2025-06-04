@@ -59,9 +59,6 @@
   <img alt="github-snake" src="github-contribution-grid-snake.svg" />
 </picture>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmitrij-el&theme=radical)
 
