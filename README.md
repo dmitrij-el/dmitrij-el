@@ -52,7 +52,7 @@
 
 ![Metrics](https://github.com/dmitrij-el/dmitrij-el/blob/main/metrics.svg?raw=true)
 
-![snake gif](https://raw.githubusercontent.com/dmitrij-el/dmitrij-el/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/dmitrij-el/dmitrij-el/main/github-contribution-grid-snake-dark.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
