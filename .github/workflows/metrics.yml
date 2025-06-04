@@ -2,24 +2,24 @@ name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-  push:
-    branches: [ main ]
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories, activity, community
           config_timezone: Europe/Moscow
+          filename: metrics.svg  # убедись, что этот файл будет записан
 
-      - name: Commit and push the generated metrics
+      - name: Commit and push if changed
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git pull
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add metrics.svg
-          git commit -m "chore: update metrics" || echo "No changes to commit"
+          git commit -m "chore: update metrics.svg" || echo "No changes to commit"
           git push
