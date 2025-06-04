@@ -88,9 +88,15 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
 
-          git pull origin main --rebase  # Сначала подтягиваем свежие изменения
+          git stash
+          git pull origin main --rebase
 
-          # Проверяем есть ли изменения в README
+          # Если при возврате изменений будут конфликты - выходим с ошибкой
+          if ! git stash pop; then
+            echo "⚠️ Conflict detected after stash pop!"
+            exit 1
+          fi
+
           if ! git diff --quiet README.md; then
             git add README.md
             git commit -m "📝 Update README content [skip ci]"
