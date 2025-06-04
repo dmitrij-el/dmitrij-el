@@ -32,16 +32,16 @@ jobs:
 
       - name: Generate and commit snake
         run: |
-          # Перемещаем SVG в корень (если нужно)
-          mv dist/github-contribution-grid-snake.svg .
+          cp -f dist/github-contribution-grid-snake.svg ./github-contribution-grid-snake.svg
           git add github-contribution-grid-snake.svg
           git commit -m "🔄 Update contribution snake" || echo "No snake changes"
-        if: always()  # Выполнять даже если предыдущие шаги упали
+        if: always()
 
       - name: Push all changes
         run: |
-          git pull --rebase origin main
-          git push
+          git fetch origin main
+          git reset --hard origin/main
+          git push --force
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
