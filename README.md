@@ -1,6 +1,6 @@
 # 👋 Дмитрий Иванюк | Backend Developer & DevOps
 
-[![Update README](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/update-readme.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/update-readme.yml)
+[![Refresh GitHub Profile](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml)
 
 ![Metrics](https://github.com/dmitrij-el/dmitrij-el/blob/main/metrics.svg?raw=true)
 
