@@ -2,8 +2,8 @@ import os
 import requests
 from datetime import datetime, timedelta
 
-GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
-HEADERS = {'Authorization': f'token {GITHUB_TOKEN}'}
+GH_TOKEN = os.getenv('GH_TOKEN')
+HEADERS = {'Authorization': f'token {GH_TOKEN}'}
 
 
 def format_time(dt):
