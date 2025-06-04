@@ -62,6 +62,15 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmitrij-el&theme=radical)
 
+<!-- COMMITS_SECTION_START -->
+### 🚀 Последние коммиты
+
+- **В этом репозитории:**  
+  [`🔄 Update contribution snake graphics`](https://github.com/dmitrij-el/dmitrij-el/commit/33b25777392ccb352c0d0c9fc121045bf971affc) — *0 минут назад*  
+- **В других репозиториях:**  
+  [`реадми`](https://github.com/dmitrij-el/dmitrij-el/commit/19a7993d6ac5650ce593f7dfc85ce05244455b53) — *13 часов назад*  
+<!-- COMMITS_SECTION_END -->
+
 
 ### 🚀 Последние коммиты
 
