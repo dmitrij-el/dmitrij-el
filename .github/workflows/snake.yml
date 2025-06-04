@@ -15,9 +15,6 @@ jobs:
         with:
           github_user_name: dmitrij-el
           svg_out_path: dist/github-contribution-grid-snake.svg
-          color: 'orange'  # Цвет змейки
-          width: 800       # Ширина
-          height: 300      # Высота
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
