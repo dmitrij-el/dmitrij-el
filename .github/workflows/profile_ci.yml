@@ -30,11 +30,18 @@ jobs:
           github_user_name: dmitrij-el
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Generate and commit snake
+        run: |
+          # Перемещаем SVG в корень (если нужно)
+          mv dist/github-contribution-grid-snake.svg .
+          git add github-contribution-grid-snake.svg
+          git commit -m "🔄 Update contribution snake" || echo "No snake changes"
+        if: always()  # Выполнять даже если предыдущие шаги упали
+
+      - name: Push all changes
+        run: |
+          git pull --rebase origin main
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
@@ -73,9 +80,17 @@ jobs:
       - name: Commit and push changes
         if: steps.changes.outputs.changed == 'true'
         run: |
+          # Configure git
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+
+          # Reset to remote state to avoid conflicts
+          git fetch origin main
+          git reset --hard origin/main
+
+          # Re-apply changes
           git add .
           git commit -m "📊 Unified profile update [skip ci]"
-          git pull --rebase
-          git push
+
+          # Push with force (since we reset)
+          git push --force

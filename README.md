@@ -48,7 +48,7 @@
 ## 📈 Последняя активность
 [![trophy](https://github-profile-trophy.vercel.app/?username=dmitrij-el&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Refresh GitHub Profile](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml)
+[![Unified Profile Maintenance](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml)
 
 ![Metrics](https://github.com/dmitrij-el/dmitrij-el/blob/main/metrics.svg?raw=true)
 
