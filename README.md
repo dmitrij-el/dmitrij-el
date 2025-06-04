@@ -46,22 +46,15 @@
 ![](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## 📈 Последняя активность
-[![trophy](https://github-profile-trophy.vercel.app/?username=dmitrij-el&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Refresh GitHub Profile](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml)
 
 ![Metrics](https://github.com/dmitrij-el/dmitrij-el/blob/main/metrics.svg?raw=true)
 
-![snake gif](https://github.com/dmitrij-el/dmitrij-el/blob/output/github-contribution-grid-snake.svg)
+### 🕒 Последние действия
 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<p style="text-align: left;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dmitrij-el&theme=radical" width="700" alt="GitHub Activity Graph"/>
-</p>
-
+- 🔨 В `dmitrij-el/dmitrij-el`: [`реадми`](https://github.com/dmitrij-el/dmitrij-el/commit/387d077e5c5d6a67e94780599c506bed41eab4be) — *0 минут назад*
+- 📘 В других репозиториях: [`реадми`](https://github.com/dmitrij-el/dmitrij-el/commit/19a7993d6ac5650ce593f7dfc85ce05244455b53) — *11 часов назад*
 ## 📫 Как связаться
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d_m_elec)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dblmokdima@gmail.com)
