@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/test.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions)
 
-![Snake animation](https://github.com/dmitrij-el/dmitrij-el/blob/output/github-contribution-grid-snake.svg)
+![Metrics](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/generated/metrics.svg)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrij-el&layout=compact&theme=radical)](https://github.com/dmitrij-el)
