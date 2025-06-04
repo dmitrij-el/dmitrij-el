@@ -59,19 +59,27 @@ def update_readme(readme_path, data):
     with open(readme_path, "r", encoding="utf-8") as f:
         content = f.read()
 
-    new_section = f"""
-## Последние действия
+    # Формируем новый блок с коммитами
+    commits_section = f"""
+### 🚀 Последние коммиты
 
-- 🔨 В `{REPO_OWNER}/{REPO_NAME}`: [`{data['self']['message']}`]({data['self']['url']}) — *{data['self']['time']}*
-- 📘 В других репозиториях: [`{data['other']['message']}`]({data['other']['url']}) — *{data['other']['time']}*
+- **В этом репозитории:**  
+  [`{data['self']['message']}`]({data['self']['url']}) — *{data['self']['time']}*  
+- **В других репозиториях:**  
+  [`{data['other']['message']}`]({data['other']['url']}) — *{data['other']['time']}*  
 """
 
-    # Ищем любой раздел "Последние действия" и заменяем его
-    if "## Последние действия" in content:
-        parts = content.split("## Последние действия", 1)
-        new_content = parts[0] + new_section
+    # Ищем место для вставки (например, после графика активности)
+    insert_marker = "![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmitrij-el&theme=radical)"
+    if insert_marker in content:
+        # Вставляем после графика активности
+        new_content = content.replace(
+            insert_marker,
+            insert_marker + "\n\n" + commits_section
+        )
     else:
-        new_content = content + new_section
+        # Если маркер не найден, добавляем в конец
+        new_content = content + "\n\n" + commits_section
 
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(new_content)
