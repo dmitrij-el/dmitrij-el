@@ -48,23 +48,8 @@
 ![](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## 📈 Последняя активность
-
-[![Refresh GitHub Profile](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml)
-
 ![Metrics](https://github.com/dmitrij-el/dmitrij-el/blob/main/metrics.svg?raw=true)
 
-### 🕒 Последние действия
-
-- 🔨 В `dmitrij-el/dmitrij-el`: [`Merge remote-tracking branch 'origin/main'`](https://github.com/dmitrij-el/dmitrij-el/commit/e91776b343804a070cf7d55e272523881d2d7bc9) — *0 минут назад*
-- 📘 В других репозиториях: [`Update README.md`](https://github.com/dmitrij-el/dmitrij-el/commit/d98912da89adede292f205d757b2a206ce71e467) — *12 часов назад*
-### 🕒 Последние действия
-
-- 🔨 В `dmitrij-el/dmitrij-el`: [`реадми`](https://github.com/dmitrij-el/dmitrij-el/commit/64eb22cd058163bbd28e2d5e32ccadeff4d5471e) — *0 минут назад*
-- 📘 В других репозиториях: [`Update README.md`](https://github.com/dmitrij-el/dmitrij-el/commit/d98912da89adede292f205d757b2a206ce71e467) — *12 часов назад*
-### 🕒 Последние действия
-
-- 🔨 В `dmitrij-el/dmitrij-el`: [`реадми`](https://github.com/dmitrij-el/dmitrij-el/commit/aae995cfb42028110d4ca3ebb42e4e41ae778673) — *0 минут назад*
-- 📘 В других репозиториях: [`Update README.md`](https://github.com/dmitrij-el/dmitrij-el/commit/d98912da89adede292f205d757b2a206ce71e467) — *12 часов назад*
 ## 📫 Как связаться
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d_m_elec)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dblmokdima@gmail.com)
