@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/update-readme.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions)
 
-![Metrics](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/generated/metrics.svg)
+![Metrics](https://github.com/dmitrij-el/dmitrij-el/blob/generated/metrics.svg)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrij-el&layout=compact&theme=radical)](https://github.com/dmitrij-el)
