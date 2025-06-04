@@ -7,7 +7,7 @@ def parse_requirements(filename):
 install_requires = parse_requirements("requirements.in")
 
 setup(
-    name="Anwill Back Catalog & Platform",
+    name="dmitrij-el",
     version='0.1.0',
     description="Дмитрий Иванюк | Backend Developer & DevOps",
     long_description=open("README.md", encoding="utf-8").read(),

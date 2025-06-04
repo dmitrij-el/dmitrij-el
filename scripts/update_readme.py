@@ -1,9 +1,10 @@
 import os
 import requests
-from datetime import datetime, timedelta
+from datetime import datetime
+from dateutil import parser  # Используем правильный импорт
 
 GH_TOKEN = os.getenv('GH_TOKEN')
-HEADERS = {'Authorization': f'token {GH_TOKEN}'}
+HEADERS = {'Authorization': f'token {GH_TOKEN}'} if GH_TOKEN else {}
 
 
 def format_time(dt):
@@ -21,10 +22,11 @@ def get_last_activity():
     url = f"https://api.github.com/users/dmitrij-el/events/public"
     try:
         response = requests.get(url, headers=HEADERS)
+        response.raise_for_status()  # Проверка статуса ответа
         events = response.json()
 
-        if not isinstance(events, list):
-            return "Не удалось получить активность"
+        if not events or not isinstance(events, list):
+            return "🚧 Активность не найдена"
 
         last_event = events[0]
         repo_name = last_event['repo']['name']
@@ -39,9 +41,10 @@ def get_last_activity():
             return f"🔀 PR {pr_action} in [{repo_name}](https://github.com/{repo_name}) ({format_time(created_at)})"
         else:
             return f"⚡ Activity in [{repo_name}](https://github.com/{repo_name}): {event_type} ({format_time(created_at)})"
-
+    except requests.exceptions.RequestException as e:
+        return f"⚠️ Ошибка сети: {str(e)}"
     except Exception as e:
-        return f"⚠️ Ошибка при получении активности: {str(e)}"
+        return f"⚠️ Неожиданная ошибка: {str(e)}"
 
 
 def update_readme():
