@@ -1,8 +1,8 @@
 # 👋 Дмитрий Иванюк | Backend Developer & DevOps
 
-[![CI](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/update-readme.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions)
+[![Update README](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/update-readme.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/update-readme.yml)
 
-![Metrics](https://github.com/dmitrij-el/dmitrij-el/blob/generated/metrics.svg)
+![Metrics](https://github.com/dmitrij-el/dmitrij-el/blob/main/metrics.svg?raw=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrij-el&layout=compact&theme=radical)](https://github.com/dmitrij-el)
