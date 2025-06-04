@@ -7,27 +7,38 @@
 ## 🛠️ Мой стек технологий
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![](https://img.shields.io/badge/SQLAlchemy-CA5041?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![](https://img.shields.io/badge/Alembic-4B4B4B?style=for-the-badge&logo=alembic&logoColor=white)
-![](https://img.shields.io/badge/Pydantic-009FBD?style=for-the-badge&logo=pydantic&logoColor=white)
-![](https://img.shields.io/badge/TaskIQ-3B82F6?style=for-the-badge&logo=lightning&logoColor=white)
-
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+
+![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/REST%20API-0066CC?style=for-the-badge&logo=api&logoColor=white)
+![](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
+![](https://img.shields.io/badge/SSE-FF6600?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Webhook-6B4DEE?style=for-the-badge&logo=webhooks&logoColor=white)
+![](https://img.shields.io/badge/HTTPX-000000?style=for-the-badge&logo=httpx&logoColor=white)
+
+![](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![](https://img.shields.io/badge/Pydantic-009FBD?style=for-the-badge&logo=pydantic&logoColor=white)
+
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/SQLAlchemy-CA5041?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![](https://img.shields.io/badge/Alembic-4B4B4B?style=for-the-badge&logo=alembic&logoColor=white)
+
+![](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![](https://img.shields.io/badge/TaskIQ-3B82F6?style=for-the-badge&logo=lightning&logoColor=white)
+![](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ![](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![](https://img.shields.io/badge/FSM-FF9800?style=for-the-badge&logo=flow&logoColor=white)
-![](https://img.shields.io/badge/Auth-Secure-4CAF50?style=for-the-badge&logo=lock&logoColor=white)
-![](https://img.shields.io/badge/Integration-FastAPI-009688?style=for-the-badge&logo=link&logoColor=white)
 
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Auth-Secure-4CAF50?style=for-the-badge&logo=lock&logoColor=white)
+![](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+![](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![](https://img.shields.io/badge/PIL-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Docker%20Compose-384D54?style=for-the-badge&logo=docker&logoColor=white)
