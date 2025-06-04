@@ -30,24 +30,29 @@ jobs:
           github_user_name: dmitrij-el
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Generate and commit snake
+      - name: Commit metrics and snake changes
         run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          
+          # Обновляем snake.svg (если есть изменения)
           cp -f dist/github-contribution-grid-snake.svg ./github-contribution-grid-snake.svg
-          git add github-contribution-grid-snake.svg
-          git commit -m "🔄 Update contribution snake" || echo "No snake changes"
-        if: always()
-
-      - name: Push all changes
-        run: |
-          git fetch origin main
-          git reset --hard origin/main
-          git push --force
+          git add metrics.svg github-contribution-grid-snake.svg
+          
+          # Коммитим только если есть изменения
+          if ! git diff --cached --quiet; then
+            git commit -m "📈 Update GitHub metrics and snake [skip ci]"
+            git pull origin main --rebase  # Подтягиваем изменения перед push
+            git push origin main
+          else
+            echo "No changes in metrics or snake."
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
   update-readme:
     name: Update README Content
-    needs: update-metrics
+    needs: update-metrics  # Ждём завершения update-metrics
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -72,21 +77,19 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python scripts/update_readme.py
 
-      - name: Check for changes
-        id: changes
+      - name: Commit README changes (if any)
         run: |
-          git diff --quiet || echo "changed=true" >> $GITHUB_OUTPUT
-
-      - name: Commit and push changes
-        if: steps.changes.outputs.changed == 'true'
-        run: |
-          git pull origin main --rebase
-          if git diff --quiet; then
-            echo "No changes to commit"
-          else
-            git add .
-            git commit -m "📊 Unified profile update [skip ci]"
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          
+          # Проверяем, есть ли изменения в README
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m "📝 Update README content [skip ci]"
+            git pull origin main --rebase  # Подтягиваем актуальные изменения
             git push origin main
+          else
+            echo "No changes in README.md."
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
