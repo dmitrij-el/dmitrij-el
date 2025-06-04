@@ -62,6 +62,15 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmitrij-el&theme=radical)
 
+
+### 🚀 Последние коммиты
+
+- **В этом репозитории:**  
+  [`реадми`](https://github.com/dmitrij-el/dmitrij-el/commit/4d14de7b9ae83353b39c0b253010438d546fd9ed) — *1 минут назад*  
+- **В других репозиториях:**  
+  [`реадми`](https://github.com/dmitrij-el/dmitrij-el/commit/19a7993d6ac5650ce593f7dfc85ce05244455b53) — *13 часов назад*  
+
+
 ## 📫 Как связаться
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d_m_elec)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dblmokdima@gmail.com)
