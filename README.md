@@ -53,9 +53,11 @@
 ![Metrics](https://github.com/dmitrij-el/dmitrij-el/blob/main/metrics.svg?raw=true)
 
 
-
-<img src="https://github.com/dmitrij-el/dmitrij-el/blob/main/github-contribution-grid-snake.svg" style="background-color: #0d1117;" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
