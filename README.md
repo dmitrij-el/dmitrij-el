@@ -1,106 +1,49 @@
-# Дмитрий Иванюк | Backend Developer & DevOps
+# 👋 Дмитрий Иванюк | Backend Developer & DevOps
 
-## 👋 Обо мне
-- 🎂 37 лет (04.06.1988)
-- 📍 Москва
-- 🎓 Образование: Московский Государственный Вечерний Металлургический Институт
-- ♿ Инвалидность 3 группы (бессрочно) после ДТП
-- 🚗 + 📜 Водительское удостоверение B
+[![CI](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/test.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions)
+![Snake animation](https://github.com/dmitrij-el/dmitrij-el/blob/output/github-contribution-grid-snake.svg)
 
-### 🏗️ Карьерный переход
-8 лет в строительной сфере (инженер МЕП) → 2 года в IT после профессиональной переподготовки (Skillbox). С ноября 2024 — backend/devops в стартапе Anwill (полный цикл разработки MVP).
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrij-el&layout=compact&theme=radical)](https://github.com/dmitrij-el)
 
-## 🛠️ Hard Skills
+## 🛠️ Мой стек технологий
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+[Добавь другие технологии]
 
-### 🔧 Backend
-```
-Python 3.12 (типизированный) | FastAPI (ASGI) | SQLAlchemy + Alembic | 
-Pydantic | TaskIQ (асинхронные задачи) | Celery (синхронные задачи) | REST/WebSocket/SSE
-```
+## 🌟 Мои ключевые проекты
+1. **[Anwill Catalog](https://github.com/...)**
+   - Описание: Полноценный каталог с FastAPI и S3
+   - Стек: Python 3.12, FastAPI, PostgreSQL, MinIO
+   - Особенности: Асинхронная архитектура, OAuth2
 
-### 🤖 Telegram-боты
+2. **[BeaHea Full-Stack](https://github.com/...)**
+   - Описание: Веб-приложение с микросервисной архитектурой
+   - Стек: FastAPI, Redis, RabbitMQ, Jinja2
 
-```
-Aiogram (webhook/polling) | FSM | Интеграция с FastAPI | Безопасная аутентификация
-```
+## 📈 Последняя активность
+<!-- Здесь будет динамический контент через GitHub Actions -->
+Последний коммит в [репозиторий](https://github.com/...):
+- 🎉 Обновлена документация API (2 дня назад)
 
-### 🗃️ Базы данных
+## 📫 Как связаться
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d_m_elec)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dblmokdima@gmail.com)
+[![HeadHunter](https://img.shields.io/badge/HeadHunter-FF6600?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/resume/29992be0ff0370ff830039ed1f71487a35624f)
 
-```
-PostgreSQL 16 | Redis | RabbitMQ | SQLite (для FSM)
-```
+## 📁 Материалы
+[![Рекомендательное письмо](https://img.shields.io/badge/✉️_Рекомендательное_письмо-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://beahea.ru/static/characteristic_from_Aleksey.pdf)
 
-### 🛠️ Инфраструктура
+### Anwill
+[![Anwill Back Catalog](https://img.shields.io/badge/🗂️_Anwill_Back_Catalog-FF0000?style=for-the-badge)](https://api.anwill.fun/catalog/docs)
+[![Anwill Back User](https://img.shields.io/badge/👤_Anwill_Back_User-FF0000?style=for-the-badge)](https://api.anwill.fun/docs)
+[![Anwill TeleBot](https://img.shields.io/badge/🤖_Anwill_TeleBot-FF0000?style=for-the-badge)](https://tb.anwill.fun/docs)
 
-```
-Docker + Compose | Nginx (реверс-прокси + SSL) | 
-Gunicorn (ASGI) | MinIO (S3-совместимое хранилище) | CI/CD (GitHub Actions)
-```
-
-### 🎨 Frontend (вспомогательно)
-```
-HTML5/CSS3 (адаптив) | JavaScript (ES6+) | Jinja2 | Интеграция с REST API
-```
-
-### 🏗️ Инженерный бэкграунд (прежняя специализация)
-```
-▸ Проектирование МЕП (FreeCAD)
-▸ Электрика/автоматизация (Компас-Электрик) 
-▸ Электроника (KiCad)
-▸ Сантехника/отопление/вентиляция
-```
-
-## 💡 Soft Skills
-
-### 🚀 Профессиональные:
-```
-- Техническое лидерство
-- Архитектурное мышление
-- Быстрая обучаемость
-- Ориентация на результат
-- Стремление к инновациям
-```
+### BeaHea
+[![BeaHea Website](https://img.shields.io/badge/🌐_BeaHea_Website-00AA00?style=for-the-badge)](https://beahea.ru)
+[![BeaHea API](https://img.shields.io/badge/🔌_BeaHea_API-00AA00?style=for-the-badge)](https://beahea.ru/api/docs)
+[![BeaHea Source Code](https://img.shields.io/badge/💻_Исходный_код-00AA00?style=for-the-badge)](https://beahea.ru/api/info/docs)
 
 
-### 👥 Командные:
-```
-- Эффективная коммуникация
-- Междисциплинарное взаимодействие
-- Конструктивная обратная связь
-- Наставнический подход
-- Четкое разделение ответственности
-```
-
-
-### 🧠 Личностные:
-```
-- Высокая самоорганизация
-- Психологическая устойчивость
-- Критическое мышление
-- Ответственность за решения
-- Адаптивность к изменениям
-```
-
-
-## Материалы
-
-[✉️ Рекомендательное письмо](https://beahea.ru/static/characteristic_from_Aleksey.pdf)
-
-==== Anwill ====
-- [📂 Каталог](https://api.anwill.fun/catalog/docs)
-- [👤 Пользователи](https://api.anwill.fun/docs)  
-- [🤖 Телеграм-бот](https://tb.anwill.fun/docs)
-
-==== BeaHea ====
-- [🌐 Сайт](https://beahea.ru)
-- [🔌 API](https://beahea.ru/api/docs)
-- [💻 Исходники](https://beahea.ru/api/info/docs)
-
-
-## 📬 Контакты
-
-- [🔗 GitHub](https://github.com/dmitrij-el)
-- [📱 Telegram](https://t.me/d_m_elec)
-- [💼 HeadHunter](https://hh.ru/resume/29992be0ff0370ff830039ed1f71487a35624f)
 
 
