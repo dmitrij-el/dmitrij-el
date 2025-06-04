@@ -52,14 +52,10 @@
 
 ![Metrics](https://github.com/dmitrij-el/dmitrij-el/blob/main/metrics.svg?raw=true)
 
-![snake gif](https://raw.githubusercontent.com/dmitrij-el/dmitrij-el/main/github-contribution-grid-snake-dark.svg)
+<img src="https://github.com/dmitrij-el/dmitrij-el/blob/main/github-contribution-grid-snake.svg" style="background-color: #0d1117;" />
+
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 
