@@ -41,10 +41,6 @@
 
 ![Metrics](https://github.com/dmitrij-el/dmitrij-el/blob/main/metrics.svg?raw=true)
 
-### 🕒 Последние действия
-
-- 🔨 В `dmitrij-el/dmitrij-el`: [`Update README.md`](https://github.com/dmitrij-el/dmitrij-el/commit/<last_commit_sha>) — *10 часов назад*
-- 📘 В других репозиториях: [`🎉 Обновлена документация API`](https://github.com/<repo>/commit/<sha>) — *2 дня назад*
 
 
 ## 📫 Как связаться
