@@ -1,10 +1,5 @@
 # 👋 Дмитрий Иванюк | Backend Developer & DevOps
 
-[![Refresh GitHub Profile](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml)
-
-![Metrics](https://github.com/dmitrij-el/dmitrij-el/blob/main/metrics.svg?raw=true)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrij-el&layout=compact&theme=radical)](https://github.com/dmitrij-el)
 
 ## 🛠️ Мой стек технологий
@@ -41,9 +36,16 @@
 
 
 ## 📈 Последняя активность
-🔨 Pushed to [dmitrij-el/dmitrij-el](https://github.com/dmitrij-el/dmitrij-el): Update README.md (10 часов назад)
-Последний коммит в [репозиторий](https://github.com/...):
-- 🎉 Обновлена документация API (2 дня назад)
+
+[![Refresh GitHub Profile](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml)
+
+![Metrics](https://github.com/dmitrij-el/dmitrij-el/blob/main/metrics.svg?raw=true)
+
+### 🕒 Последние действия
+
+- 🔨 В `dmitrij-el/dmitrij-el`: [`Update README.md`](https://github.com/dmitrij-el/dmitrij-el/commit/<last_commit_sha>) — *10 часов назад*
+- 📘 В других репозиториях: [`🎉 Обновлена документация API`](https://github.com/<repo>/commit/<sha>) — *2 дня назад*
+
 
 ## 📫 Как связаться
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d_m_elec)
