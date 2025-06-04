@@ -47,7 +47,6 @@
 ![](https://img.shields.io/badge/MinIO-C82E00?style=for-the-badge&logo=min.io&logoColor=white)
 ![](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-
 ## 📈 Последняя активность
 
 [![Refresh GitHub Profile](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml)
