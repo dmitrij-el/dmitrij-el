@@ -1,6 +1,6 @@
 # 👋 Дмитрий Иванюк | Backend Developer & DevOps
 
-[![CI](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/test.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions)
+[![CI](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/update-readme.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions)
 
 ![Metrics](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/generated/metrics.svg)
 
