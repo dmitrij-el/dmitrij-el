@@ -55,6 +55,11 @@
 ![snake gif](https://raw.githubusercontent.com/dmitrij-el/dmitrij-el/main/github-contribution-grid-snake-dark.svg)
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
