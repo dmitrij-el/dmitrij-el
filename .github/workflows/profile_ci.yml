@@ -26,6 +26,7 @@ jobs:
           config_display: large
           config_twemoji: yes
           config_padding: 0, 10%
+          template: classic-dark
 
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
