@@ -84,6 +84,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d_m_elec)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dblmokdima@gmail.com)
 [![HeadHunter](https://img.shields.io/badge/HeadHunter-FF6600?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/resume/29992be0ff0370ff830039ed1f71487a35624f)
+[![Сетка](https://img.shields.io/badge/Сетка-4285F4?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://set.ki/LCtXWp3)
+
 
 ## 📁 Материалы
 [![Рекомендательное письмо](https://img.shields.io/badge/✉️_Рекомендательное_письмо-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://beahea.ru/static/characteristic_from_Aleksey.pdf)
