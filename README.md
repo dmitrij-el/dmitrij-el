@@ -75,9 +75,6 @@
 </picture>
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmitrij-el&theme=radical)
-
-
 ## 📫 Как связаться
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d_m_elec)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dblmokdima@gmail.com)
