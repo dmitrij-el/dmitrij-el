@@ -1,5 +1,8 @@
 # 👋 Дмитрий Иванюк | Backend Developer & DevOps
 
+[![Unified Profile Maintenance](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrij-el&layout=compact&theme=radical)](https://github.com/dmitrij-el)
 
 ## 🛠️ Мой стек технологий
@@ -48,7 +51,6 @@
 ## 📈 Последняя активность
 [![trophy](https://github-profile-trophy.vercel.app/?username=dmitrij-el&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Unified Profile Maintenance](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml)
 
 ![Metrics](https://github.com/dmitrij-el/dmitrij-el/blob/main/metrics.svg?raw=true)
 

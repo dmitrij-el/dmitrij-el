@@ -16,6 +16,8 @@ jobs:
         with:
           fetch-depth: 0
 
+
+
       - name: Generate metrics.svg
         uses: lowlighter/metrics@latest
         with:
