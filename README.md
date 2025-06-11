@@ -66,9 +66,9 @@
 ### 🚀 Последние коммиты
 
 - **В этом репозитории:**  
-  [`Update metrics.svg - [Skip GitHub Action]`](https://github.com/dmitrij-el/dmitrij-el/commit/2c3b7fafa15e8fe631528b09ac613bd8c565b6e8) — *0 минут назад*  
+  [`🔄 Update contribution snake graphics`](https://github.com/dmitrij-el/dmitrij-el/commit/a27a98c8079d9eae42ffc7f7553bc98a664f11a2) — *0 минут назад*  
 - **В других репозиториях:**  
-  [`Merge remote-tracking branch 'origin/main'`](https://github.com/dmitrij-el/dmitrij-el/commit/23d800c12fa892fc4adab993c59adf37d9bb73ab) — *12 часов назад*  
+  [`Merge remote-tracking branch 'origin/main'`](https://github.com/dmitrij-el/dmitrij-el/commit/23d800c12fa892fc4adab993c59adf37d9bb73ab) — *16 часов назад*  
 <!-- COMMITS_SECTION_END -->
 
 
