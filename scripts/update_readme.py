@@ -87,7 +87,7 @@ def update_readme(readme_path, data):
         # Заменяем существующую секцию
         start_idx = content.index(COMMITS_SECTION_START)
         end_idx = content.index(COMMITS_SECTION_END) + len(COMMITS_SECTION_END)
-        new_content = content[:start_idx] + commits_section + content[end_idx:]
+        new_content = content[:start_idx] + content[end_idx:]
     else:
         # Добавляем новую секцию после графика активности
         insert_marker = "![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmitrij-el&theme=radical)"

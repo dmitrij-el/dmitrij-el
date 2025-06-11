@@ -3,8 +3,6 @@
 [![Unified Profile Maintenance](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrij-el&layout=compact&theme=radical)](https://github.com/dmitrij-el)
-
 ## 🛠️ Мой стек технологий
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,7 +47,22 @@
 ![](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## 📈 Последняя активность
-[![trophy](https://github-profile-trophy.vercel.app/?username=dmitrij-el&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+### 📊 GitHub Summary Cards
+
+#### 🧑‍💻 Личные репозитории (`dmitrij-el`)
+
+![](https://raw.githubusercontent.com/dmitrij-el/dmitrij-el/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/dmitrij-el/dmitrij-el/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/dmitrij-el/dmitrij-el/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+
+#### 🏢 Организация `BeaHea`
+
+![](https://raw.githubusercontent.com/BeaHea/BeaHea-Full-Stack-Application/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/BeaHea/BeaHea-Full-Stack-Application/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/BeaHea/BeaHea-Full-Stack-Application/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+
 
 
 ![Metrics](https://github.com/dmitrij-el/dmitrij-el/blob/main/metrics.svg?raw=true)
@@ -63,23 +76,6 @@
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dmitrij-el&theme=radical)
-
-<!-- COMMITS_SECTION_START -->
-### 🚀 Последние коммиты
-
-- **В этом репозитории:**  
-  [`📝 Update README content [skip ci]`](https://github.com/dmitrij-el/dmitrij-el/commit/af79603c4eb0aaf05e76693a0a77fc058532dd42) — *5 часов назад*  
-- **В других репозиториях:**  
-  [`Merge remote-tracking branch 'origin/main'`](https://github.com/dmitrij-el/dmitrij-el/commit/23d800c12fa892fc4adab993c59adf37d9bb73ab) — *1 день назад*  
-<!-- COMMITS_SECTION_END -->
-
-
-### 🚀 Последние коммиты
-
-- **В этом репозитории:**  
-  [`реадми`](https://github.com/dmitrij-el/dmitrij-el/commit/4d14de7b9ae83353b39c0b253010438d546fd9ed) — *1 минут назад*  
-- **В других репозиториях:**  
-  [`реадми`](https://github.com/dmitrij-el/dmitrij-el/commit/19a7993d6ac5650ce593f7dfc85ce05244455b53) — *13 часов назад*  
 
 
 ## 📫 Как связаться
