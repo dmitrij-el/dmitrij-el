@@ -48,6 +48,8 @@
 
 ## 📈 Последняя активность
 
+![Metrics](https://github.com/dmitrij-el/dmitrij-el/blob/main/metrics.svg?raw=true)
+
 
 ### 📊 GitHub Summary Cards
 
@@ -62,10 +64,6 @@
 ![](https://raw.githubusercontent.com/BeaHea/BeaHea-Full-Stack-Application/dev/profile-summary-card-output/github_dark/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/BeaHea/BeaHea-Full-Stack-Application/dev/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/BeaHea/BeaHea-Full-Stack-Application/dev/profile-summary-card-output/github_dark/2-most-commit-language.svg)
-
-
-
-![Metrics](https://github.com/dmitrij-el/dmitrij-el/blob/main/metrics.svg?raw=true)
 
 
 <picture>
