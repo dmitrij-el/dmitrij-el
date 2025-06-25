@@ -1,4 +1,4 @@
-# 👋 Дмитрий Иванюк | Backend Developer & DevOps
+# 👋 Backend Developer
 
 [![Unified Profile Maintenance](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml/badge.svg)](https://github.com/dmitrij-el/dmitrij-el/actions/workflows/profile_ci.yml)
 
