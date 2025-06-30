@@ -5,6 +5,7 @@ on:
     - cron: "0 0 * * *"  # каждый день
   push:
     branches: ["main"]
+  workflow_dispatch:
 
 
 jobs:
@@ -31,7 +32,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.METRICS_TOKEN }}@github.com/${{ github.repository }}.git
+          git remote set-url origin https://x-access-token:${{ secrets.METRICS_TOKEN }}@github.com/BeaHea/BeaHea-Full-Stack-Application.git
 
       - name: Generate GitHub profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
