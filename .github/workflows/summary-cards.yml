@@ -8,12 +8,36 @@ on:
 
 
 jobs:
-  build:
+  build_for_me:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: dmitrij-el
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+
+  build_beahea:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: Set up Git credentials
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.METRICS_TOKEN }}@github.com/${{ github.repository }}.git
+
+      - name: Generate GitHub profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: dmitrij-el
+          BRANCH_NAME: dev
+          AUTO_PUSH: true
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
