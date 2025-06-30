@@ -59,7 +59,7 @@
 
 #### 🏢 Организация `BeaHea`
 
-![](https://raw.githubusercontent.com/dmitrij-el/dmitrij-el/main/BeaHea/BeaHea-Full-Stack-Application/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/dmitrij-el/dmitrij-el/main/profile-summary-card-output/BeaHea/BeaHea-Full-Stack-Application/profile-summary-card-output/github_dark/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/dmitrij-el/dmitrij-el/main/BeaHea/BeaHea-Full-Stack-Application/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/dmitrij-el/dmitrij-el/main/BeaHea/BeaHea-Full-Stack-Application/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 

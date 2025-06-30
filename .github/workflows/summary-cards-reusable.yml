@@ -43,12 +43,20 @@ jobs:
           persist-credentials: true
           path: profile-repo
 
-      - name: Clone current repo again to get cards
+      - name: Copy summary cards from current repo
         run: |
-          git clone --depth=1 https://${GH_PAT}@github.com/${GITHUB_OWNER}/${GITHUB_REPO_NAME}.git temp-cards
           mkdir -p profile-repo/profile-summary-card-output/${GITHUB_OWNER}/${GITHUB_REPO_NAME}
-          cp -r temp-cards/profile-summary-card-output/* profile-repo/profile-summary-card-output/${GITHUB_OWNER}/${GITHUB_REPO_NAME}/ || echo "No cards"
+          git clone --depth=1 https://${GH_PAT}@github.com/${GITHUB_OWNER}/${GITHUB_REPO_NAME}.git temp-cards
+          cp -r temp-cards/profile-summary-card-output/. profile-repo/profile-summary-card-output/${GITHUB_OWNER}/${GITHUB_REPO_NAME}/
           rm -rf temp-cards
+
+      - name: Проверка содержимого перед коммитом
+        run: |
+          echo "Текущая директория:"
+          pwd
+          echo "Содержимое перед коммитом:"
+          find profile-repo/profile-summary-card-output/BeaHea/BeaHea-Full-Stack-Application || echo "Файлы не найдены"
+
 
       - name: Commit and push to profile
         run: |
