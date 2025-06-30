@@ -55,7 +55,7 @@ jobs:
           echo "Текущая директория:"
           pwd
           echo "Содержимое перед коммитом:"
-          find profile-repo/profile-summary-card-output/BeaHea/BeaHea-Full-Stack-Application || echo "Файлы не найдены"
+          find profile-repo/profile-summary-card-output/${GITHUB_OWNER}/${GITHUB_REPO_NAME} || echo "Файлы не найдены"
 
 
       - name: Commit and push to profile
