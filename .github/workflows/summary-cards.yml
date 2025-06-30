@@ -1,4 +1,4 @@
-name: GitHub Summary Cards
+name: Generate & Sync Summary Cards for my public repositories
 
 on:
   schedule:

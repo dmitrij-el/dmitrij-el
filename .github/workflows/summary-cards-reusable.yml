@@ -1,4 +1,4 @@
-name: summary-cards
+name: Generate & Sync Summary Cards for alien repositories
 
 on:
   workflow_call:
