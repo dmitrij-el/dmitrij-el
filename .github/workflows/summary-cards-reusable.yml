@@ -45,7 +45,7 @@ jobs:
 
       - name: Clone current repo again to get cards
         run: |
-          git clone --depth=1 https://github.com/${GITHUB_OWNER}/${GITHUB_REPO_NAME} temp-cards
+          git clone --depth=1 https://${GH_PAT}@github.com/${GITHUB_OWNER}/${GITHUB_REPO_NAME}.git temp-cards
           mkdir -p profile-repo/profile-summary-card-output/${GITHUB_OWNER}/${GITHUB_REPO_NAME}
           cp -r temp-cards/profile-summary-card-output/* profile-repo/profile-summary-card-output/${GITHUB_OWNER}/${GITHUB_REPO_NAME}/ || echo "No cards"
           rm -rf temp-cards
